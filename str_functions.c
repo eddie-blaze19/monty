@@ -43,6 +43,7 @@ else
 return (0);
 }
 
+
 /**
  * _strtoky - function that cut a string into tokens depending of the delimit
  * @s: string to cut in parts
